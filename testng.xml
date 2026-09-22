@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<suite name="Amazon Automation Suite">
+
+    <test name="Amazon Tests">
+
+        <classes>
+
+            <class name="Tests.AmazonSearchTest"/>
+            <class name="Tests.AmazonSearchResultsTest"/>
+            <class name="Tests.ProductDetailsTest"/>
+            <class name="Tests.AddToCartTest"/>
+
+        </classes>
+
+    </test>
+
+</suite>

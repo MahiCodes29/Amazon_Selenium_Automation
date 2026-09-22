@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-09-22T23:39:07 IST" name="Amazon Automation Suite" finished-at="2026-09-22T23:40:21 IST" duration-ms="74179">
+    <groups>
+    </groups>
+    <test started-at="2026-09-22T23:39:07 IST" name="Amazon Tests" finished-at="2026-09-22T23:40:21 IST" duration-ms="74179">
+      <class name="Tests.ProductDetailsTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Tests.ProductDetailsTest@1ea9f6af]" started-at="2026-09-22T23:39:35 IST" name="setUp" finished-at="2026-09-22T23:39:38 IST" duration-ms="2433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyMacBookProductDetails()[pri:0, instance:Tests.ProductDetailsTest@1ea9f6af]" started-at="2026-09-22T23:39:38 IST" name="verifyMacBookProductDetails" finished-at="2026-09-22T23:39:54 IST" duration-ms="16532" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMacBookProductDetails -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.ProductDetailsTest@1ea9f6af]" started-at="2026-09-22T23:39:54 IST" name="tearDown" finished-at="2026-09-22T23:39:54 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Tests.ProductDetailsTest -->
+      <class name="Tests.AmazonSearchResultsTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Tests.AmazonSearchResultsTest@188715b5]" started-at="2026-09-22T23:39:20 IST" name="setUp" finished-at="2026-09-22T23:39:28 IST" duration-ms="7861" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyMacBookSearchResult()[pri:0, instance:Tests.AmazonSearchResultsTest@188715b5]" started-at="2026-09-22T23:39:28 IST" name="verifyMacBookSearchResult" finished-at="2026-09-22T23:39:35 IST" duration-ms="7472" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMacBookSearchResult -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.AmazonSearchResultsTest@188715b5]" started-at="2026-09-22T23:39:35 IST" name="tearDown" finished-at="2026-09-22T23:39:35 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Tests.AmazonSearchResultsTest -->
+      <class name="Tests.AddToCartTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Tests.AddToCartTest@6a192cfe]" started-at="2026-09-22T23:39:54 IST" name="setUp" finished-at="2026-09-22T23:40:01 IST" duration-ms="6248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyAddToCartAndProceedToBuy()[pri:0, instance:Tests.AddToCartTest@6a192cfe]" started-at="2026-09-22T23:40:01 IST" name="verifyAddToCartAndProceedToBuy" finished-at="2026-09-22T23:40:21 IST" duration-ms="20759" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddToCartAndProceedToBuy -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.AddToCartTest@6a192cfe]" started-at="2026-09-22T23:40:21 IST" name="tearDown" finished-at="2026-09-22T23:40:21 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Tests.AddToCartTest -->
+      <class name="Tests.AmazonSearchTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Tests.AmazonSearchTest@1700915]" started-at="2026-09-22T23:39:07 IST" name="setUp" finished-at="2026-09-22T23:39:10 IST" duration-ms="3190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyProductSearch()[pri:0, instance:Tests.AmazonSearchTest@1700915]" started-at="2026-09-22T23:39:10 IST" name="verifyProductSearch" finished-at="2026-09-22T23:39:20 IST" duration-ms="9620" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductSearch -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.AmazonSearchTest@1700915]" started-at="2026-09-22T23:39:20 IST" name="tearDown" finished-at="2026-09-22T23:39:20 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Tests.AmazonSearchTest -->
+    </test> <!-- Amazon Tests -->
+  </suite> <!-- Amazon Automation Suite -->
+</testng-results>
