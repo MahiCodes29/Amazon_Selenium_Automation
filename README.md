@@ -49,3 +49,14 @@ Amazon_Selenium_Automation
 ├── pom.xml
 ├── testng.xml
 └── README.md
+
+## Automated Workflows
+
+- User Registration
+- User Login
+- Product Search
+- Search Results Validation
+- Product Details Validation
+- Add to Cart
+- Go to Cart
+- Proceed to Buy
