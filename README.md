@@ -13,6 +13,18 @@ A Selenium WebDriver automation testing project for automating key Amazon e-comm
 - Git
 - GitHub
 
+
+## Automated Workflows
+
+- User Registration
+- User Login
+- Product Search
+- Search Results Validation
+- Product Details Validation
+- Add to Cart
+- Go to Cart
+- Proceed to Buy
+
 ## Project Structure
 
 ```text
@@ -50,13 +62,4 @@ Amazon_Selenium_Automation
 ├── testng.xml
 └── README.md
 
-## Automated Workflows
 
-- User Registration
-- User Login
-- Product Search
-- Search Results Validation
-- Product Details Validation
-- Add to Cart
-- Go to Cart
-- Proceed to Buy
